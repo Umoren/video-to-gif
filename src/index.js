@@ -8,5 +8,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-// If you want t
